@@ -9,6 +9,10 @@
             #6. Partial Link Text
         #Custom locators
             #1. XPath - Absolute, Relative
-            #2. CSS Selector - Tag and ID, Tag and Class, Tag and Attribute, Tag, class and Attribute
+            #2. CSS Selector
+                Tag and ID
+                Tag and Class
+                Tag and Attribute
+                Tag, class and Attribute
 
 #Actions
