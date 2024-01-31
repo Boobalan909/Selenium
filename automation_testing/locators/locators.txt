@@ -14,5 +14,3 @@
                 Tag and Class
                 Tag and Attribute
                 Tag, class and Attribute
-
-#Actions

@@ -39,7 +39,7 @@ tag_name = driver.find_elements(By.TAG_NAME, "a")
 print(len(tag_name))
 
 """ finding the element by CSS selector """
-css_selector = driver.find_element(By.CSS_SELECTOR, "i.fas") #Tag and Class
+css_selector = driver.find_element(By.CSS_SELECTOR, "li.nav-item") #Tag and Class
 css_selector.click()
 
 time.sleep(5)
